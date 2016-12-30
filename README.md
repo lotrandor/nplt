@@ -1,2 +1,2 @@
 # nplt
-Personal project for LEGO PW Trains microcontroler
+Personal project for LEGO PowerFunctions Trains automatisation
