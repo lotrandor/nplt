@@ -1,6 +1,6 @@
 //#define DEBUG
 
-#define NPLT_VER_0.1
+#define NPLT_VER_0.3
 
 // Display libraries and variables
 #include <Wire.h>
